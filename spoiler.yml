@@ -1,12 +1,12 @@
 name: Spoiler
-version: 1.0.1
-description: "Spoiler plugin for Morfy"
+version: 2.0.0
+description: "Spoiler plugin for Fansoro"
 author:
   name: Sergey Romanenko
   email: awilum@msn.com
-  url: http://morfy.org
-homepage: https://github.com/morfy-cms/morfy-plugin-spoiler
-bugs: https://github.com/morfy-cms/morfy-plugin-spoiler/issues
+  url: http://fansoro.org
+homepage: https://github.com/fansoro/fansoro-plugin-spoiler
+bugs: https://github.com/fansoro/fansoro-plugin-spoiler/issues
 license: MIT
 
 # Plugin settings

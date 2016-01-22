@@ -2,10 +2,10 @@
 
 ![Spoiler](screenshot.png)
 
-Spolier plugin for [Morfy](https://github.com/morfy-cms/morfy)
+Spolier plugin for [fansoro](https://github.com/fansoro/fansoro)
 
 ## Installation
-See [this instruction](http://morfy.org/documentation/plugins/plugins-installation)
+See [this instruction](http://fansoro.org/documentation/plugins/plugins-installation)
 
 ## Usage
 ```
@@ -21,4 +21,4 @@ See [this instruction](http://morfy.org/documentation/plugins/plugins-installati
 ```
 
 ## License
-See [LICENSE](https://github.com/morfy-cms/morfy-plugin-spolier/blob/master/LICENSE)
+See [LICENSE](https://github.com/fansoro/fansoro-plugin-spolier/blob/master/LICENSE)

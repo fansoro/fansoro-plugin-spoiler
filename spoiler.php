@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Morfy Spoiler Plugin
+ * Fansoro Spoiler Plugin
  *
  * (c) Romanenko Sergey / Awilum <awilum@msn.com>
  *
